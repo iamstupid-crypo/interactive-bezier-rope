@@ -134,7 +134,5 @@ interactive-bezier-rope/
 ├── index.html
 ├── script.js
 └── README.md
-```
 
-This version is **clean, confident, and submission-ready**.
 
